@@ -194,4 +194,3 @@ The following are limitations you need to be aware of when you use this dataset:
 - Text data prior to 1994 is unreliable. Transcripts prior to 1994 were OCRd with mixed results. We welcome updates to these texts.
 - The format of the meeting transcripts is dramatically different in the COVID-19 period due to remote meetings. This needs to be considered when doing textual analysis.
 - The dataset only contains meetings in which a resolution was discussed. Presidential statements and other meetings are not included. Contributions are welcome.
-- 
