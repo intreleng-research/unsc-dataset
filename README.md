@@ -110,7 +110,10 @@ Example:
 meetings_and_resolutions_df = resolutions_df.merge(meetings_df, how="inner", on=["meeting_id","year"])
 ```
 
-More can be seen in the [EDA file](EDA/Exploratory_Data_Analysis.ipynb)
+More can be seen in the [EDA file](EDA/Exploratory_Data_Analysis.ipynb). To be able and run all examples, you will need to have the Facebooks Language Identification Model. You can download it for free here:
+   ```shell
+   $ curl https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin --output lid.176.bin
+   ``` 
 
 ## (Re)Building the dataset from scratch
 
