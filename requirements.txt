@@ -1,0 +1,24 @@
+jupyterlab
+fitz
+wheel # needed for pymupdf installable on Mac M1 hardware
+pymupdf
+pymupdf-fonts
+python-dotenv
+requests
+psycopg2
+bs4
+html5lib
+openpyxl
+fake_useragent
+black
+sqlalchemy
+matplotlib
+textblob
+plotly
+cufflinks
+spacy
+sklearn
+contractions
+fasttext
+wordcloud
+python-magic
