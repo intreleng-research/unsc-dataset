@@ -1,6 +1,6 @@
 # The UN Security Council Dataset
 
-This repository maintains a first dataset for the UN Security Council. It was first published in publication XXXXXXXX .
+This repository maintains a first dataset for the UN Security Council. It was first published in publication [ISBN 978-86-87043-84-8 doi: 10.52987/pcrc.2022](https://www.pcrconference.org/pcrc2022002.html).
 
 We currently offer an overview of UNSC meetings, resolutions from its inception in 1946 until July 2022.
 Only the meetings discussing a resolution are included. Presidential Statements and other meetings are not (yet) in this dataset.
